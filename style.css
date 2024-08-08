@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* 
+nav {
+  background-color: rgb(118, 132, 220);
+  padding: 20px;
+  a {
+    color: rgb(231, 231, 231);
+  }
+}
+
+#home {
+  background-color: green;
+  color: white;
+  padding: 8px;
+  border: 8px solid rgb(148, 27, 126);
+  display: inline-block;
+}
+
+#section1 {
+  background-color: yellow;
+  color: black;
+  padding: 20px;
+  input {
+    width: 100%;
+    padding: 10px;
+  }
+} */
